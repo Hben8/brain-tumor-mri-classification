@@ -1,0 +1,21 @@
+# Dataset — download from Kaggle (see README) / descargar de Kaggle (ver README)
+Training/
+Testing/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
